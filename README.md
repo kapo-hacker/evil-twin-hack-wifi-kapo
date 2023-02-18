@@ -10,3 +10,4 @@ ls
 cd evil-twin-hack-wifi-kapo
 sudo bash kapo.sh
 sudo bash kapo.sh -i
+don't forget Subscribe in my channel https://www.youtube.com/@kapohacker
