@@ -5,7 +5,7 @@ I'm kapo. I'm making hacking tools and adjusting other tools to make them powerf
 git clone https://github.com/kapo-hacker/evil-twin-hack-wifi-kapo.git
 cd evil-twin-hack-wifi-kapo
 ls
-sudo unzip evil-twin-hack-wifi-kapo
+sudo unzip evil-twin-hack-wifi-kapo.zip
 ls
 cd evil-twin-hack-wifi-kapo
 sudo bash kapo.sh
